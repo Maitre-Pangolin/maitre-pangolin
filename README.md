@@ -27,11 +27,9 @@ I'm currently having a blast and learning a tons of stuff !
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="50" height="50">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="50" height="50">
-<img src='https://react.semantic-ui.com/logo.png' width="50" height=50">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width="50" height="50">
                                                                        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="50" height="50">
-<img src='https://camo.githubusercontent.com/bf32d0a71c170dbdb203c201579564f2cd7fc54a24720faad61af12c9605c6b5/68747470733a2f2f7265616374747261696e696e672e636f6d2f72656163742d726f757465722f616e64726f69642d6368726f6d652d313434783134342e706e67' width="50" height=50">
 </div>
 
    ---  
