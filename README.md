@@ -1,6 +1,6 @@
 ###  👋 Hi there 👋
 
-I'm Martin, an aspiring Full-Stack developper living in Montreal.
+I'm Martin, an aspiring Full-Stack developer living in Montreal.
 
 🌱 I've quit my job in January 2021 to learn MERN stack and web technologies.
 I'm currently having a blast and learning a tons of stuff !
