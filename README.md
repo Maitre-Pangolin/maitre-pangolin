@@ -11,6 +11,8 @@ I'm currently having a blast and learning a tons of stuff !
  
  Feel free to contact me if you have any questions or just want to chat !
  
+ You can also go check my [portfolio](https://maitre-pangolin.github.io/Portfolio/).
+ 
  ### Language & Skills
  
  ---
