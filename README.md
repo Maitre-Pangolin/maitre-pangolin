@@ -42,6 +42,9 @@ I'm currently having a blast and learning a tons of stuff !
  [Path Back-End](https://roadmap.sh/backend)
  
  **Never stop learning !**
+ 
+ <img src="cssjoke.png" width="400">
+ 
 <!--
 **Maitre-Pangolin/maitre-pangolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
