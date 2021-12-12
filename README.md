@@ -2,18 +2,18 @@
 
 I'm Martin, a JS Full-Stack developer living in Montreal.
 
-🌱 After an engineering career I decided to change path to learn web development and the M/P ERN stack.
-I'm currently having a blast and learning a tons of stuff !
+🌱 After being an aerospace engineer for years, I decided to take my career in a new direction and deep dive into web development. Definitely the best decision of 2021, I am learning a ton of new fascinating things everyday, total blast!
 
-🎨 I'm also a digital artist, I like to create numerical artwork ranging from interactive art installation to drawings pen plotted thanks to my trusty AxiDraw, you can find some of my work on [Instagram](https://www.instagram.com/croc0smos/)
+Current Roadmap:
+- **2020: Survive a global pandemy (still ongoing)**
+- **2021: Gain a deep understanding of MERN/PERN stacks and perfect my coding skills**
+- **2022: Become a professional web developer!**
 
- 📫 How to reach me: martin.wasselet@gmail.com
+🎨 As a digital artist, I also create numerical art ranging from interactive art installations to drawings pen plotted with my trusty AxiDraw. You can find some of my work on [Instagram](https://www.instagram.com/croc0smos/).
+
+ Feel free to contact me if you have any questions, feedback on a project or just want to chat !
  
- Feel free to contact me if you have any questions or just want to chat !
- 
- You can also go check my [portfolio](https://maitre-pangolin.github.io/Portfolio/).
- 
- ### Language & Skills
+ ### Languages & Skills
  
  ---
  
@@ -23,20 +23,19 @@ I'm currently having a blast and learning a tons of stuff !
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' width="50" height="50">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width="50" height="50">
- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width="50" height="50"> 
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="50" height="50">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="50" height="50">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width="50" height="50">
-                                                                       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width="50" height="50">
+ <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width="50" height="50">
  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width="50" height="50">
 </div>
 
    ---  
    
- My go-to to learn new skills related to web developpment :  
+ My go-to to to find new things to learn about regarding web developpment :  
  
  [Path Front-End](https://roadmap.sh/frontend)  
  [Path Back-End](https://roadmap.sh/backend)
