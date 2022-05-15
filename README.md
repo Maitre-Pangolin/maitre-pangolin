@@ -2,7 +2,7 @@
 
 I'm Martin, a JS Full-Stack developer living in Montreal.
 
-🌱 After being an aerospace engineer for years, I decided to take my career in a new direction and deep dive into web development. Definitely the best decision of 2021, I am learning a ton of new fascinating things everyday, total blast!
+🌱 After being an aerospace engineer for years, I decided to take my career in a new direction and deep dive into web development. Definitely the best decision of 2021, I have leared a ton of fascinating things and I am now working primarily as a back-end software developper at Heyday By Hootsuite
 
 Current Roadmap:
 - ~~**2020: Survive a global pandemy**~~
