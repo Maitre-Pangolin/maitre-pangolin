@@ -2,13 +2,13 @@
 
 I'm Martin, a JS Full-Stack developer living in Montreal.
 
-🌱 After being an aerospace engineer for years, I decided to take my career in a new direction and deep dive into web development. Definitely the best decision of 2021, I have leared a ton of fascinating things and I am now working primarily as a back-end software developper at Heyday By Hootsuite
+🌱 After being an aerospace engineer for years, I decided to take my career in a new direction and deep dive into web development. Definitely the best decision of 2021, I have leared a ton of fascinating things and I am now working as a back-end software developer at Heyday By Hootsuite
 
 Current Roadmap:
 - ~~**2020: Survive a global pandemy**~~
 - ~~**2021: Gain a deep understanding of MERN/PERN stacks and perfect my coding skills**~~
 - ~~**2022: Become a professional web developer!**~~ Got hired at Heyday.ai as a back-end software engineer
-- Keep learning and improving
+- Keep learning and improving - Currently training for AWS Solutions Architect - Associate Certification
 
 🎨 As a digital artist, I also create numerical art ranging from interactive art installations to drawings pen plotted with my trusty AxiDraw. You can find some of my work on [Instagram](https://www.instagram.com/croc0smos/).
 
@@ -36,7 +36,7 @@ Current Roadmap:
 
    ---  
    
- My go-to to to find new things to learn about regarding web developpment :  
+ My go-to to to find new things to learn about regarding web development :  
  
  [Path Front-End](https://roadmap.sh/frontend)  
  [Path Back-End](https://roadmap.sh/backend)
